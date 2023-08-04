@@ -11,9 +11,12 @@ This was made because of my love for animals and memorization games!
 Technology used : html,css, javascript
 
 User stories:
-- As a user, I want to be able to have one player. 
+- As a user, I want to be able to have one player.
+- As a user, I want a parent sign up button.
+- As a user, I want the option to select the animal or insect gameboard. 
 - As a user, I want to be able to click on a card seamlessly. 
-- As a user, I would want the game  to be colorful. 
+- As a user, I would want the game  to be colorful.
+- As a user, I want to see a clean, even, and organized fun gameboard.
 - As a user, I want to select a block and see the picture of a animal underneath in.
 - As a user, I want to select another block if I fail to match my cards. 
 - As a user, I want to see how much time I have left in the timer. 
@@ -29,7 +32,8 @@ Bonus user stories:
 - A page where kids can select what category of cards/blocks they want. 
 - The ability to win virtual prizes, with a trophy or confetti. 
 - Cutesy but sleek type of look. 
-- The ability to chose what time you would want in variations of 1 to max 5 minutes. 
+- The ability to chose what time you would want in variations of 1 to max 5 minutes.
+
 
 
 
@@ -55,20 +59,22 @@ Pseudocode
 
 Overall Logic of the Game
 
-Pages will show and guide the players to the gameboard to start
-Player will clock on timer inorder to begin.
-Player will begin the game by clicking on a block/card
-Player will click on a different card, after analyzing the first one
-PLayer will see if the card matches with another block selected!
-Once a match the Card will stay front up untill all cards are finished
-Once the timer has finished, the players game will be stopped or won
-The Play Again Button will appear and player has the choice to start over and beat their time!
-The Play Again will shuffle and restart the game
+- Pages will show and guide the players to the gameboard to start
+- Player will clock on timer inorder to begin.
+- Player will begin the game by clicking on a block/card
+- Player will click on a different card, after analyzing the first one
+- PLayer will see if the card matches with another block selected!
+- Once a match the Card will stay front up untill all cards are finished
+- Once the timer has finished, the players game will be stopped or won
+- The Play Again Button will appear and player has the choice to start over and beat their time!
+- The Play Again will shuffle and restart the game
 
 State of the Game: 
 A Gameboard! with blocks/cards. 
 
 Variables: 
-blocks
-Timer
-Start over button 
+- blocks
+- Timer
+- Start over button
+- Sign in Board
+- Choose Animal or Insect button
