@@ -1,4 +1,4 @@
-d# Concentrationmemorygame
+# Concentrationmemorygame
 
 Choice of Game: Concentration (Memory game)
 
