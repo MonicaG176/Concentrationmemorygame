@@ -6,7 +6,7 @@ Choice of Game: Concentration (Memory game)
 Overview:
 
 
-Welcome to  Concentration the Memory Game: Animal edition! this gameboard will be specifically designed for kids and will be a display of 25+ faced down cards where kids will have the ability to use their mouse and computer to pick two cards until they match!Not only is this fun!, but kids will have the ability to see a variation of cute animlas! The cards will display matching kittens, puppies etc. With the use of a timer kids must beat their time to win the prize!! The timer will gives kids a heads up  once they are approaching thier time limit! . The faster they answer the more points they get! They will also have th eability to restart the game and start again to increase their memorization! 
+Welcome to  Concentration the Memory Game: Animal edition! this gameboard will be specifically designed for kids and will be a display of 25+ faced down cards where kids will have the ability to use their mouse and computer to pick two cards until they match! Not only is this fun!, but kids will have the ability to see a variation of cute animlas! The cards will display matching kittens, puppies, or any insect. With the use of a timer, kids must beat their time to win the prize!! The timer will gives kids a heads up  once they are approaching thier time limit! . The faster they answer the more points they get! They will also have the ability to restart the game and start again to increase their memorization! 
 This was made because of my love for animals and memorization games!
 Technology used : html,css, javascript
 
