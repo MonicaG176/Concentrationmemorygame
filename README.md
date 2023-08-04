@@ -1,4 +1,4 @@
-# Concentrationmemorygame
+d# Concentrationmemorygame
 
 Choice of Game: Concentration (Memory game)
 Overview: Concentration the Memory Game will be specifically designed for kids and will be a display of 25+ faced down cards where kids will have the ability to use their mouse and computer to pick two cards until they match! The cards will display matching animals and there will be a timer that gives kids a heads up when they will run out of time. The faster they answer the more points they get!
@@ -42,4 +42,17 @@ WIREFRAMES: ![IMG_0129](https://github.com/MonicaG176/Concentrationmemorygame/as
 ![IMG_0128](https://github.com/MonicaG176/Concentrationmemorygame/assets/140432213/8d1ac0a9-0469-4c99-a74a-1b1f4a67788b) 
 ![IMG_0124](https://github.com/MonicaG176/Concentrationmemorygame/assets/140432213/5d53983b-e2f5-4a18-a106-00499c33f607)
 
+Pseudocode
+
+Overall Logic of the Game
+
+Pages will show and guide the players to the gameboard to start
+Player will clock on timer inorder to begin.
+Player will begin the game by clicking on a block/card
+Player will click on a different card, after analyzing the first one
+PLayer will see if the card matches with another block selected!
+Once a match the Card will stay front up untill all cards are finished
+Once the timer has finished, the players game will be stopped or won
+The Play Again Button will appear and player has the choice to start over and beat their time!
+The Play Again will shuffle and restart the game
 
